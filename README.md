@@ -1,4 +1,5 @@
 # Adobe file icons set
+For ImageGlass and PhotoQt
 
 ![Banner](https://raw.githubusercontent.com/xmha97/IGExtIcons/master/Banner.jpg)
 
