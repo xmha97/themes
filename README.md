@@ -3,7 +3,7 @@
 ## Installation
 1. Download the latest release from [here](https://github.com/xmha97/themes/archive/refs/heads/master.zip)
 2. Extract downloaded file
-3. Run `Install (ImageGlass).bat` or  `Install (PhotoQt).bat`
+3. Run `ImageGlass.bat` or  `PhotoQt.bat`
 
 # Adobe 2026 (for [ImageGlass](https://github.com/d2phap/imageglass) and [PhotoQt](https://github.com/luspi/photoqt))
 Coming soon...
