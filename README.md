@@ -9,4 +9,4 @@ For [ImageGlass](https://github.com/d2phap/imageglass) and [PhotoQt](https://git
 3. Run `Install (ImageGlass).bat` or  `Install (PhotoQt).bat`
 
 # Credits
-https://github.com/FoxP/PNG-to-ICO
+- https://github.com/FoxP/PNG-to-ICO
